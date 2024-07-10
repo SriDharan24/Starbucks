@@ -1,2 +1,2 @@
 # Starbucks
-Recreating an Starbucks Websites using HTML and CSS
+Recreating an Starbucks Website using HTML and CSS
